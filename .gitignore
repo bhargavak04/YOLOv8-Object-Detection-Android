@@ -1,0 +1,27 @@
+# Python virtual environment and model files
+model/
+*.pt
+*.onnx
+*.tflite
+
+# Android build files
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Images and media files
+*.jpg
+*.jpeg
+*.png
+*.gif
+
+# Logs and temporary files
+*.log
+*.tmp
