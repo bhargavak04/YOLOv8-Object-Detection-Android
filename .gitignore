@@ -25,3 +25,8 @@ local.properties
 # Logs and temporary files
 *.log
 *.tmp
+# Android build files
+**/build/
+**/.gradle/
+**/*.iml
+**/.idea/
