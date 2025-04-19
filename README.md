@@ -73,7 +73,6 @@ If you want to train your own custom YOLOv8 model:
 3. Point your camera at objects to detect
 4. The app will display bounding boxes around detected objects with class labels and confidence scores
 
-## Demo Screenshots
 
 ## Demo Screenshots
 
