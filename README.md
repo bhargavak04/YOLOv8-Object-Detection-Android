@@ -75,13 +75,18 @@ If you want to train your own custom YOLOv8 model:
 
 ## Demo Screenshots
 
-Here are some screenshots of the application in action:
+## Demo Screenshots
 
-![Object Detection Demo 1](OBD_IMG1.jpg)
-*The app detecting multiple objects in a real-world scene with bounding boxes and labels*
-
-![Object Detection Demo 2](OBD_IMG2.jpg)
-*Another example of real-time object detection with confidence scores*
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; justify-items: center; margin: 15px 0;">
+  <div style="width: 180px; text-align: center;">
+    <img src="OBD_IMG1.jpg" style="width: 180px; height: 320px; object-fit: cover; border-radius: 6px; border: 1px solid #eee; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+    <p style="margin: 5px 0 0; font-size: 13px; color: #555;">The app detecting multiple objects in a real-world scene with bounding boxes and labels</p>
+  </div>
+  <div style="width: 180px; text-align: center;">
+    <img src="OBD_IMG2.jpg" style="width: 180px; height: 320px; object-fit: cover; border-radius: 6px; border: 1px solid #eee; box-shadow: 0 1px 3px rgba(0,0,0,0.1);">
+    <p style="margin: 5px 0 0; font-size: 13px; color: #555;">Another example of real-time object detection</p>
+  </div>
+</div>
 
 ## Performance Optimization
 
